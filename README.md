@@ -64,23 +64,6 @@ The project focuses on building a production-quality full-stack application with
 8. Student enrollment management.
 9. Learning progress tracking.
 
-### P1 - Important Features
-
-10. Course categories and filtering.
-11. Ratings and reviews.
-12. Responsive mobile interface.
-13. Instructor profile management.
-14. Bookmark and wishlist functionality.
-
-### P2 - Nice-to-Have Features
-
-15. Course certificates.
-16. Dark mode.
-17. Real-time notifications.
-18. Admin analytics dashboard.
-19. AI-powered course recommendations.
-
----
 
 ## System Modules
 
@@ -132,6 +115,5 @@ The project focuses on building a production-quality full-stack application with
 ![Authentication Screen](auth_screen.png)
 ## student dashboard
 ![Main Dashboard](student.png)
-
 ## course 
-!(course.png)
+![Course Details View](course.png)
